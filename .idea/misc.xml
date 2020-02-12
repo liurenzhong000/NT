@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/14-springboot-jar" />
+    <file type="web" url="file://$PROJECT_DIR$/14-springboot-war" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/24-mycat/pom.xml" />
+        <option value="$PROJECT_DIR$/25-seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/26-p2p-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/18-fastdfs-web/pom.xml" />
+        <option value="$PROJECT_DIR$/18-fastdfs-java/pom.xml" />
+        <option value="$PROJECT_DIR$/01-springsession/pom.xml" />
+        <option value="$PROJECT_DIR$/05-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/14-springboot-jar/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/14-springboot-jar/pom.xml" />
+        <option value="$PROJECT_DIR$/14-springboot-war/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/14-springboot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/13-springboot-java/pom.xml" />
+        <option value="$PROJECT_DIR$/19-activemq-sender/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/19-activemq-receive/pom.xml" />
+        <option value="$PROJECT_DIR$/03-springboot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/13-springboot-java02/pom.xml" />
+        <option value="$PROJECT_DIR$/06-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/07-springboot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springboot-redis01/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springboot-redis02/pom.xml" />
+        <option value="$PROJECT_DIR$/12-springboot-filter01/pom.xml" />
+        <option value="$PROJECT_DIR$/12-springboot-filter02/pom.xml" />
+        <option value="$PROJECT_DIR$/04-springboot-initparam/pom.xml" />
+        <option value="$PROJECT_DIR$/11-springboot-servlet01/pom.xml" />
+        <option value="$PROJECT_DIR$/11-springboot-servlet02/pom.xml" />
+        <option value="$PROJECT_DIR$/16-sprinbgboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/10-springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/20-activemq-spring-sender/pom.xml" />
+        <option value="$PROJECT_DIR$/17-springboot-all-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/17-springboot-all-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/20-activemq-spring-receive/pom.xml" />
+        <option value="$PROJECT_DIR$/15-springboot-springsession/pom.xml" />
+        <option value="$PROJECT_DIR$/17-springboot-all-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/09-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/09-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/22-mysql-materslave-spring01/pom.xml" />
+        <option value="$PROJECT_DIR$/09-springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/21-activemq-springboot-sender/pom.xml" />
+        <option value="$PROJECT_DIR$/22-mysql-masterslave-spring02/pom.xml" />
+        <option value="$PROJECT_DIR$/21-activemq-springboot-receive/pom.xml" />
+        <option value="$PROJECT_DIR$/23-mysql-masterslave-springboot01/pom.xml" />
+        <option value="$PROJECT_DIR$/23-mysql-masterslave-springboot02/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
